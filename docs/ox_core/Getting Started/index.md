@@ -48,7 +48,7 @@ Refer to [GitHub's guide to setting up Git](https://docs.github.com/en/get-start
 ```
 npm install --location=global pnpm
 git clone https://github.com/overextended/ox_core.git
-cd web
+cd ox_core/web
 pnpm i
 pnpm build
 ```
